@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2020-10-21T04:21:44.428Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.162 Safari/537.36" etag="zJAIxR3s9ikbYJzsPy9R" version="13.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-21T04:22:40.386Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.162 Safari/537.36" etag="J0L9NmLtPU4Mu2p_dAuf" version="13.8.1" type="github">
   <diagram id="BvZ-COXXViEzjNhuf3pY" name="Page-1">
     <mxGraphModel dx="1483" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="W1T311rMxpBIpC6KNnp8-5" value="K8S" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="262" y="210" width="260" height="30" as="geometry" />
+          <mxGeometry x="262" y="210" width="258" height="30" as="geometry" />
         </mxCell>
         <mxCell id="W1T311rMxpBIpC6KNnp8-6" value="Docker&amp;amp;Docker2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="262" y="240" width="260" height="30" as="geometry" />
+          <mxGeometry x="262" y="240" width="258" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sp7kLMGzaN918V7uIGgK-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260.75" y="388" width="261.75" height="60" as="geometry" />
@@ -43,11 +43,11 @@
         <mxCell id="sp7kLMGzaN918V7uIGgK-21" value="NAS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="743.75" y="211" width="38.75" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="sp7kLMGzaN918V7uIGgK-28" value="Redis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sp7kLMGzaN918V7uIGgK-28" value="redis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="623.75" y="388" width="37.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sp7kLMGzaN918V7uIGgK-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="262" y="270" width="261.5" height="30" as="geometry" />
+          <mxGeometry x="262" y="270" width="258" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sp7kLMGzaN918V7uIGgK-31" value="GPU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="279" y="275" width="40" height="20" as="geometry" />
