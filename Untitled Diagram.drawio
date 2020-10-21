@@ -1,29 +1,29 @@
-<mxfile host="app.diagrams.net" modified="2020-10-21T03:04:25.938Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.162 Safari/537.36" etag="9FN6NiBQ4pesY2ucsyPr" version="13.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-21T03:04:32.949Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.162 Safari/537.36" etag="vBiOwxHtK-nghgRkhSBR" version="13.8.1" type="github">
   <diagram id="BvZ-COXXViEzjNhuf3pY" name="Page-1">
     <mxGraphModel dx="1221" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="W1T311rMxpBIpC6KNnp8-5" value="K8S" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="360" width="260" height="30" as="geometry" />
+          <mxGeometry x="160" y="360" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="W1T311rMxpBIpC6KNnp8-6" value="Docker&amp;amp;Docker2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="390" width="260" height="30" as="geometry" />
+          <mxGeometry x="160" y="390" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sp7kLMGzaN918V7uIGgK-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="83" y="250" width="220" height="60" as="geometry" />
+          <mxGeometry x="163" y="250" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sp7kLMGzaN918V7uIGgK-4" value="算法容器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="93" y="270" width="90" height="20" as="geometry" />
+          <mxGeometry x="173" y="270" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sp7kLMGzaN918V7uIGgK-5" value="应用容器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="196" y="270" width="90" height="20" as="geometry" />
+          <mxGeometry x="276" y="270" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sp7kLMGzaN918V7uIGgK-6" value="NFS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="370" y="240" width="60" height="80" as="geometry" />
+          <mxGeometry x="450" y="240" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sp7kLMGzaN918V7uIGgK-7" value="MYSQL" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="440" y="240" width="70" height="60" as="geometry" />
+          <mxGeometry x="520" y="240" width="70" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
