@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-21T04:50:40.581Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.162 Safari/537.36" etag="w1cQKgk3qwvsU0oJuuPF" version="13.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-21T04:50:48.496Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.162 Safari/537.36" etag="wmS1pW2PFzB9cDwRtlSx" version="13.8.1" type="github">
   <diagram id="BvZ-COXXViEzjNhuf3pY" name="Page-1">
     <mxGraphModel dx="1483" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -33,7 +33,7 @@
         <mxCell id="sp7kLMGzaN918V7uIGgK-5" value="应用容器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="379.75" y="417" width="64" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="sp7kLMGzaN918V7uIGgK-6" value="NFS&lt;br&gt;&lt;font color=&quot;#ff3333&quot;&gt;OSS&lt;br&gt;S3&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="sp7kLMGzaN918V7uIGgK-6" value="NFS&lt;br&gt;&lt;font color=&quot;#ff3333&quot;&gt;OSS&lt;br&gt;S3&lt;br&gt;HDFS&lt;br&gt;&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="305.75" y="540" width="78.25" height="160" as="geometry" />
         </mxCell>
         <mxCell id="sp7kLMGzaN918V7uIGgK-7" value="MYSQL" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
