@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-21T05:04:26.661Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.162 Safari/537.36" etag="9WNrLHyIdPbZ3gO71CZu" version="13.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-21T05:05:30.994Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.162 Safari/537.36" etag="de0Vmjq1ZxLI7mHIRfBi" version="13.8.1" type="github">
   <diagram id="BvZ-COXXViEzjNhuf3pY" name="Page-1">
     <mxGraphModel dx="1483" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -32,6 +32,9 @@
         </mxCell>
         <mxCell id="sp7kLMGzaN918V7uIGgK-5" value="调度容器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="298" y="417" width="64" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sp7kLMGzaN918V7uIGgK-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="sp7kLMGzaN918V7uIGgK-6" target="sp7kLMGzaN918V7uIGgK-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sp7kLMGzaN918V7uIGgK-6" value="NFS&lt;br&gt;&lt;font color=&quot;#ff3333&quot;&gt;OSS&lt;br&gt;S3&lt;br&gt;HDFS&lt;br&gt;&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="305.75" y="540" width="78.25" height="160" as="geometry" />
@@ -212,6 +215,9 @@
         </mxCell>
         <mxCell id="sp7kLMGzaN918V7uIGgK-80" value="缓存" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="663.75" y="417" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sp7kLMGzaN918V7uIGgK-82" value="读取" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="348" y="491" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
