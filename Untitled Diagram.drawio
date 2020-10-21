@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-21T04:40:03.372Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.162 Safari/537.36" etag="_TXbkiu6WqAwY-M1B3yU" version="13.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-21T04:40:44.738Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.162 Safari/537.36" etag="DpYbITjnlRqOfjErK8nS" version="13.8.1" type="github">
   <diagram id="BvZ-COXXViEzjNhuf3pY" name="Page-1">
     <mxGraphModel dx="1483" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -163,8 +163,11 @@
         <mxCell id="sp7kLMGzaN918V7uIGgK-44" value="&lt;b&gt;生产系统&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="673.13" y="48" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="sp7kLMGzaN918V7uIGgK-64" value="底层系统" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="sp7kLMGzaN918V7uIGgK-64" value="&lt;b&gt;底层系统&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="379.75" y="190" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sp7kLMGzaN918V7uIGgK-65" value="ci构建" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="124" y="290" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
