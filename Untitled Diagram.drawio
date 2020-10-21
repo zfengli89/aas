@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-21T04:26:09.602Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.162 Safari/537.36" etag="68tAOo7NIK7KYYXiLVzc" version="13.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-21T04:27:57.125Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.162 Safari/537.36" etag="nstAUa6cct8KdTaOG-M-" version="13.8.1" type="github">
   <diagram id="BvZ-COXXViEzjNhuf3pY" name="Page-1">
     <mxGraphModel dx="1483" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -9,6 +9,17 @@
         </mxCell>
         <mxCell id="W1T311rMxpBIpC6KNnp8-6" value="Docker&amp;amp;Docker2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="281" y="249" width="258" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sp7kLMGzaN918V7uIGgK-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="319" y="460" as="sourcePoint" />
+            <mxPoint x="319" y="529" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="319" y="460" />
+              <mxPoint x="319" y="495" />
+              <mxPoint x="319" y="495" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="sp7kLMGzaN918V7uIGgK-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="279.75" y="397" width="261.75" height="60" as="geometry" />
@@ -23,7 +34,7 @@
           <mxGeometry x="464.25" y="516.5" width="78.25" height="122.5" as="geometry" />
         </mxCell>
         <mxCell id="sp7kLMGzaN918V7uIGgK-7" value="MYSQL" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="288" y="634" width="60" height="50" as="geometry" />
+          <mxGeometry x="288" y="660" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sp7kLMGzaN918V7uIGgK-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="sp7kLMGzaN918V7uIGgK-8" target="sp7kLMGzaN918V7uIGgK-41">
           <mxGeometry relative="1" as="geometry" />
@@ -31,8 +42,11 @@
         <mxCell id="sp7kLMGzaN918V7uIGgK-8" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="105" y="629" width="30" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="sp7kLMGzaN918V7uIGgK-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sp7kLMGzaN918V7uIGgK-11" target="sp7kLMGzaN918V7uIGgK-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="sp7kLMGzaN918V7uIGgK-11" value="KAFKA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="281" y="529" width="75" height="30" as="geometry" />
+          <mxGeometry x="279.75" y="530" width="75" height="70" as="geometry" />
         </mxCell>
         <mxCell id="sp7kLMGzaN918V7uIGgK-13" value="..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="452.75" y="417" width="60" height="20" as="geometry" />
