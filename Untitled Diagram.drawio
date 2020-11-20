@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-20T07:56:52.860Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="m-tDRA4b0ZW4tbjEAE4h" version="13.9.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-11-20T07:57:02.051Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="imi5UA0m0NLF7r_KWMsZ" version="13.9.3" type="github" pages="2">
   <diagram id="BvZ-COXXViEzjNhuf3pY" name="天枢-业务流程图">
     <mxGraphModel dx="1504" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -371,7 +371,7 @@
           <mxGeometry x="145" y="490" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rfOmjiK0sbo4MNkb6Nxi-31" value="RV" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="V8yJ5LG7Hwd16QrCdvG5-1">
-          <mxGeometry x="761" y="150" width="60" height="420" as="geometry" />
+          <mxGeometry x="761" y="150" width="39" height="420" as="geometry" />
         </mxCell>
         <mxCell id="rfOmjiK0sbo4MNkb6Nxi-40" value="上线&lt;br&gt;注册" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="V8yJ5LG7Hwd16QrCdvG5-1">
           <mxGeometry x="620" y="300" width="40" height="20" as="geometry" />
