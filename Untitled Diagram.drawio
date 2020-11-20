@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-20T10:22:20.314Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="-Kr4xkX9-b1NKmQBqnO5" version="13.9.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-11-20T10:23:11.126Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="bGAgQV1gISM58TAAwet9" version="13.9.3" type="github" pages="2">
   <diagram id="BvZ-COXXViEzjNhuf3pY" name="天枢-业务流程图">
     <mxGraphModel dx="1504" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -428,9 +428,6 @@
         </mxCell>
         <mxCell id="rfOmjiK0sbo4MNkb6Nxi-60" value="根据设定时间&lt;br&gt;自动释放资源" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="V8yJ5LG7Hwd16QrCdvG5-1">
           <mxGeometry x="640" y="590" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="o16UIJzT_DGPAnV2pOv--1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="V8yJ5LG7Hwd16QrCdvG5-1" source="o16UIJzT_DGPAnV2pOv--0" target="rfOmjiK0sbo4MNkb6Nxi-52">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o16UIJzT_DGPAnV2pOv--0" value="容器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="V8yJ5LG7Hwd16QrCdvG5-1">
           <mxGeometry x="560" y="155" width="29" height="30" as="geometry" />
