@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-20T07:54:54.625Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="rpBYBzaehdz9jN0bS1b4" version="13.9.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-11-20T07:55:04.988Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="vztL3XZg6NAq5jz7ynxE" version="13.9.3" type="github" pages="2">
   <diagram id="BvZ-COXXViEzjNhuf3pY" name="天枢-业务流程图">
     <mxGraphModel dx="1504" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -273,11 +273,20 @@
         <mxCell id="rfOmjiK0sbo4MNkb6Nxi-1" value="RV" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="V8yJ5LG7Hwd16QrCdvG5-1">
           <mxGeometry x="40" y="120" width="60" height="420" as="geometry" />
         </mxCell>
+        <mxCell id="rfOmjiK0sbo4MNkb6Nxi-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="V8yJ5LG7Hwd16QrCdvG5-1" source="rfOmjiK0sbo4MNkb6Nxi-2" target="rfOmjiK0sbo4MNkb6Nxi-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rfOmjiK0sbo4MNkb6Nxi-2" value="消息队列1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="V8yJ5LG7Hwd16QrCdvG5-1">
           <mxGeometry x="348" y="120" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="rfOmjiK0sbo4MNkb6Nxi-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="V8yJ5LG7Hwd16QrCdvG5-1" source="rfOmjiK0sbo4MNkb6Nxi-3" target="rfOmjiK0sbo4MNkb6Nxi-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rfOmjiK0sbo4MNkb6Nxi-3" value="消息队列2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="V8yJ5LG7Hwd16QrCdvG5-1">
           <mxGeometry x="348" y="310" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rfOmjiK0sbo4MNkb6Nxi-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="V8yJ5LG7Hwd16QrCdvG5-1" source="rfOmjiK0sbo4MNkb6Nxi-4" target="rfOmjiK0sbo4MNkb6Nxi-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rfOmjiK0sbo4MNkb6Nxi-4" value="消息队列3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="V8yJ5LG7Hwd16QrCdvG5-1">
           <mxGeometry x="348" y="500" width="120" height="40" as="geometry" />
