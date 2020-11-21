@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-21T07:15:48.212Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="sWIP2S_GZb57806YZz6b" version="13.10.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-11-21T07:17:02.851Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="m-QGIFHNwpUxdfDn_2me" version="13.10.0" type="github" pages="3">
   <diagram id="BvZ-COXXViEzjNhuf3pY" name="天枢-业务流程图">
     <mxGraphModel dx="1278" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -460,7 +460,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OnCEenb-VeVc8sezYkQB" name="Page-3">
-    <mxGraphModel dx="1278" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1065" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="ghFnRihqhD1qtxoBqN2B-0" />
         <mxCell id="ghFnRihqhD1qtxoBqN2B-1" parent="ghFnRihqhD1qtxoBqN2B-0" />
@@ -492,7 +492,12 @@
           <mxGeometry x="80" y="240" width="40" height="130" as="geometry" />
         </mxCell>
         <mxCell id="ghFnRihqhD1qtxoBqN2B-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="ghFnRihqhD1qtxoBqN2B-1" source="ghFnRihqhD1qtxoBqN2B-13" target="ghFnRihqhD1qtxoBqN2B-4">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="205" y="500" />
+              <mxPoint x="550" y="500" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ghFnRihqhD1qtxoBqN2B-13" value="推理任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ghFnRihqhD1qtxoBqN2B-1">
           <mxGeometry x="190" y="400" width="30" height="30" as="geometry" />
@@ -518,8 +523,14 @@
         <mxCell id="ghFnRihqhD1qtxoBqN2B-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ghFnRihqhD1qtxoBqN2B-1" source="ghFnRihqhD1qtxoBqN2B-33" target="ghFnRihqhD1qtxoBqN2B-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ghFnRihqhD1qtxoBqN2B-33" value="check后N条消息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ghFnRihqhD1qtxoBqN2B-1">
+        <mxCell id="ghFnRihqhD1qtxoBqN2B-33" value="check N机制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ghFnRihqhD1qtxoBqN2B-1">
           <mxGeometry x="240" y="400" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ghFnRihqhD1qtxoBqN2B-36" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="ghFnRihqhD1qtxoBqN2B-1" target="ghFnRihqhD1qtxoBqN2B-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="265" y="500" as="sourcePoint" />
+            <mxPoint x="300" y="430" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
