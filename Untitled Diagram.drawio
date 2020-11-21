@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-21T07:05:15.615Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="XneZU9aarXkwfqeWSPNo" version="13.10.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-11-21T07:05:20.739Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="UD2gQlaArDXgh-mn3lor" version="13.10.0" type="github" pages="3">
   <diagram id="BvZ-COXXViEzjNhuf3pY" name="天枢-业务流程图">
     <mxGraphModel dx="1278" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -468,7 +468,7 @@
           <mxGeometry x="170" y="200" width="300" height="240" as="geometry" />
         </mxCell>
         <mxCell id="ghFnRihqhD1qtxoBqN2B-2" value="RV消息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ghFnRihqhD1qtxoBqN2B-1">
-          <mxGeometry x="80" y="40" width="460" height="30" as="geometry" />
+          <mxGeometry x="80" y="40" width="390" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ghFnRihqhD1qtxoBqN2B-4" value="数据库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="ghFnRihqhD1qtxoBqN2B-1">
           <mxGeometry x="550" y="230" width="80" height="210" as="geometry" />
