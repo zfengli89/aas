@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-21T06:35:44.452Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="8atf4AfXMF29KeCDZmu4" version="13.10.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-11-21T06:35:57.623Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="jjp-7jBdCUSwrYkTS1Wx" version="13.10.0" type="github" pages="2">
   <diagram id="BvZ-COXXViEzjNhuf3pY" name="天枢-业务流程图">
     <mxGraphModel dx="1278" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -354,7 +354,7 @@
         <mxCell id="rfOmjiK0sbo4MNkb6Nxi-12" value="（上线状态的）任务列表" style="rounded=0;whiteSpace=wrap;html=1;" parent="V8yJ5LG7Hwd16QrCdvG5-1" vertex="1">
           <mxGeometry x="120" y="50" width="469" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rfOmjiK0sbo4MNkb6Nxi-15" value="上线&lt;br&gt;注册" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="V8yJ5LG7Hwd16QrCdvG5-1" vertex="1">
+        <mxCell id="rfOmjiK0sbo4MNkb6Nxi-15" value="任务&lt;br&gt;上线&lt;br&gt;注册" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="V8yJ5LG7Hwd16QrCdvG5-1" vertex="1">
           <mxGeometry x="610" y="100" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rfOmjiK0sbo4MNkb6Nxi-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="V8yJ5LG7Hwd16QrCdvG5-1" source="rfOmjiK0sbo4MNkb6Nxi-16" target="rfOmjiK0sbo4MNkb6Nxi-23" edge="1">
