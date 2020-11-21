@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-21T07:50:50.597Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="_gaZZRV6e8XFxKzEyZf3" version="13.10.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-11-21T07:51:30.970Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="L3PUJwkLtk2j5b8d8qGt" version="13.10.0" type="github" pages="3">
   <diagram id="BvZ-COXXViEzjNhuf3pY" name="天枢-业务流程图">
     <mxGraphModel dx="1278" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -474,8 +474,8 @@
         <mxCell id="XJq4K4T7TjfDqRCyTN4a-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ghFnRihqhD1qtxoBqN2B-1" source="XJq4K4T7TjfDqRCyTN4a-1" target="XJq4K4T7TjfDqRCyTN4a-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="240" y="530" />
-              <mxPoint x="385" y="530" />
+              <mxPoint x="240" y="550" />
+              <mxPoint x="385" y="550" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -486,7 +486,7 @@
           <mxGeometry x="170" y="40" width="350" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ghFnRihqhD1qtxoBqN2B-4" value="数据库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="ghFnRihqhD1qtxoBqN2B-1">
-          <mxGeometry x="200" y="580" width="80" height="60" as="geometry" />
+          <mxGeometry x="200" y="610" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ghFnRihqhD1qtxoBqN2B-5" value="消息解析&amp;amp;匹配模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ghFnRihqhD1qtxoBqN2B-1">
           <mxGeometry x="170" y="120" width="360" height="40" as="geometry" />
@@ -533,13 +533,19 @@
           <mxGeometry x="400" y="212" width="130" height="280" as="geometry" />
         </mxCell>
         <mxCell id="XJq4K4T7TjfDqRCyTN4a-6" value="RV消息（接受）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ghFnRihqhD1qtxoBqN2B-1">
-          <mxGeometry x="330" y="585" width="110" height="55" as="geometry" />
+          <mxGeometry x="330" y="615" width="110" height="55" as="geometry" />
         </mxCell>
         <mxCell id="XJq4K4T7TjfDqRCyTN4a-7" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="ghFnRihqhD1qtxoBqN2B-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="340" y="349.5" as="sourcePoint" />
             <mxPoint x="370" y="349.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="XJq4K4T7TjfDqRCyTN4a-10" value="测试&lt;br&gt;模式" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ghFnRihqhD1qtxoBqN2B-1">
+          <mxGeometry x="234" y="510" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XJq4K4T7TjfDqRCyTN4a-11" value="正式模式" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ghFnRihqhD1qtxoBqN2B-1">
+          <mxGeometry x="310" y="550" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
