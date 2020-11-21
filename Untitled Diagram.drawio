@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-21T07:13:11.716Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="LBd_RZIVqhAjmIiz2WLl" version="13.10.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-11-21T07:14:47.947Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="re0sEQ_AQ-_S_eGVJnlb" version="13.10.0" type="github" pages="3">
   <diagram id="BvZ-COXXViEzjNhuf3pY" name="天枢-业务流程图">
     <mxGraphModel dx="1278" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -483,10 +483,10 @@
           <mxGeometry x="190" y="220" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ghFnRihqhD1qtxoBqN2B-8" value="消息队列2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ghFnRihqhD1qtxoBqN2B-1">
-          <mxGeometry x="290" y="220" width="30" height="80" as="geometry" />
+          <mxGeometry x="320" y="220" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ghFnRihqhD1qtxoBqN2B-9" value="消息队列2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ghFnRihqhD1qtxoBqN2B-1">
-          <mxGeometry x="399" y="220" width="30" height="80" as="geometry" />
+          <mxGeometry x="439" y="220" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ghFnRihqhD1qtxoBqN2B-12" value="计算资源申请队列" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ghFnRihqhD1qtxoBqN2B-1">
           <mxGeometry x="80" y="240" width="40" height="130" as="geometry" />
@@ -495,10 +495,10 @@
           <mxGeometry x="190" y="400" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ghFnRihqhD1qtxoBqN2B-14" value="推理任务1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ghFnRihqhD1qtxoBqN2B-1">
-          <mxGeometry x="290" y="360" width="30" height="60" as="geometry" />
+          <mxGeometry x="320" y="360" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ghFnRihqhD1qtxoBqN2B-15" value="推理任务1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ghFnRihqhD1qtxoBqN2B-1">
-          <mxGeometry x="400" y="360" width="30" height="60" as="geometry" />
+          <mxGeometry x="440" y="360" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ghFnRihqhD1qtxoBqN2B-25" value="" style="endArrow=classic;html=1;entryX=1.05;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ghFnRihqhD1qtxoBqN2B-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -512,8 +512,8 @@
         <mxCell id="ghFnRihqhD1qtxoBqN2B-27" value="启动&lt;br&gt;成功" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ghFnRihqhD1qtxoBqN2B-1">
           <mxGeometry x="170" y="355" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ghFnRihqhD1qtxoBqN2B-33" value="处理完成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ghFnRihqhD1qtxoBqN2B-1">
-          <mxGeometry x="190" y="480" width="30" height="30" as="geometry" />
+        <mxCell id="ghFnRihqhD1qtxoBqN2B-33" value="check队列" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ghFnRihqhD1qtxoBqN2B-1">
+          <mxGeometry x="240" y="400" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
