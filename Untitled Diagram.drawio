@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-21T06:42:50.750Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="LwuSgyxyEMSXvX0EL3xD" version="13.10.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-11-21T06:43:25.075Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="y0HKdP0eSSfZSrTo3Uwa" version="13.10.0" type="github" pages="3">
   <diagram id="BvZ-COXXViEzjNhuf3pY" name="天枢-业务流程图">
     <mxGraphModel dx="1278" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -471,10 +471,16 @@
           <mxGeometry x="670" y="180" width="60" height="160" as="geometry" />
         </mxCell>
         <mxCell id="ghFnRihqhD1qtxoBqN2B-5" value="消息解析&amp;amp;匹配模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ghFnRihqhD1qtxoBqN2B-1">
-          <mxGeometry x="80" y="120" width="160" height="60" as="geometry" />
+          <mxGeometry x="80" y="120" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ghFnRihqhD1qtxoBqN2B-6" value="消息解析&amp;amp;匹配模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ghFnRihqhD1qtxoBqN2B-1">
-          <mxGeometry x="80" y="280" width="160" height="60" as="geometry" />
+        <mxCell id="ghFnRihqhD1qtxoBqN2B-7" value="消息队列1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ghFnRihqhD1qtxoBqN2B-1">
+          <mxGeometry x="80" y="240" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ghFnRihqhD1qtxoBqN2B-8" value="消息队列2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ghFnRihqhD1qtxoBqN2B-1">
+          <mxGeometry x="160" y="240" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ghFnRihqhD1qtxoBqN2B-9" value="消息队列2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ghFnRihqhD1qtxoBqN2B-1">
+          <mxGeometry x="290" y="240" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
