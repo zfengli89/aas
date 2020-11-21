@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-21T07:39:56.871Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="A6VZVRqeTqwLvFHgYkvw" version="13.10.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-11-21T07:40:59.991Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="XLQ1zdrxiWyXbPdmB3tH" version="13.10.0" type="github" pages="3">
   <diagram id="BvZ-COXXViEzjNhuf3pY" name="天枢-业务流程图">
     <mxGraphModel dx="1278" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -460,7 +460,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OnCEenb-VeVc8sezYkQB" name="Page-3">
-    <mxGraphModel dx="881" dy="378" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1278" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="ghFnRihqhD1qtxoBqN2B-0" />
         <mxCell id="ghFnRihqhD1qtxoBqN2B-1" parent="ghFnRihqhD1qtxoBqN2B-0" />
@@ -518,8 +518,8 @@
         <mxCell id="ghFnRihqhD1qtxoBqN2B-33" value="check N机制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ghFnRihqhD1qtxoBqN2B-1">
           <mxGeometry x="240" y="320" width="40" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="XJq4K4T7TjfDqRCyTN4a-2" value="启动" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ghFnRihqhD1qtxoBqN2B-1">
-          <mxGeometry x="200" y="340" width="40" height="20" as="geometry" />
+        <mxCell id="XJq4K4T7TjfDqRCyTN4a-3" value="启&lt;br&gt;动&lt;br&gt;与&lt;br&gt;发&lt;br&gt;送" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ghFnRihqhD1qtxoBqN2B-1">
+          <mxGeometry x="194" y="342" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
