@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-21T07:57:40.919Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="un-q-AIREdVw-SkJZDO0" version="13.10.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-11-21T07:58:16.520Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="m0va2WkEuJIDYGqBJE41" version="13.10.0" type="github" pages="3">
   <diagram id="BvZ-COXXViEzjNhuf3pY" name="天枢-业务流程图">
     <mxGraphModel dx="1278" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -313,8 +313,8 @@
         </mxCell>
         <mxCell id="rfOmjiK0sbo4MNkb6Nxi-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="V8yJ5LG7Hwd16QrCdvG5-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="590" y="295" as="targetPoint" />
-            <mxPoint x="590" y="345" as="sourcePoint" />
+            <mxPoint x="590" y="280" as="targetPoint" />
+            <mxPoint x="590" y="330" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rfOmjiK0sbo4MNkb6Nxi-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="V8yJ5LG7Hwd16QrCdvG5-1" source="rfOmjiK0sbo4MNkb6Nxi-9" edge="1">
@@ -368,7 +368,7 @@
           <mxGeometry x="760" y="155" width="39" height="420" as="geometry" />
         </mxCell>
         <mxCell id="rfOmjiK0sbo4MNkb6Nxi-40" value="上线&lt;br&gt;注册" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="V8yJ5LG7Hwd16QrCdvG5-1" vertex="1">
-          <mxGeometry x="590" y="305" width="40" height="20" as="geometry" />
+          <mxGeometry x="590" y="290" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rfOmjiK0sbo4MNkb6Nxi-41" value="上线&lt;br&gt;注册" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="V8yJ5LG7Hwd16QrCdvG5-1" vertex="1">
           <mxGeometry x="590" y="495" width="40" height="20" as="geometry" />
@@ -435,6 +435,15 @@
         </mxCell>
         <mxCell id="ZdWitI68K5BBXJuJ7RUJ-2" value="触发&lt;br&gt;算法&lt;br&gt;服务&lt;br&gt;启动" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="V8yJ5LG7Hwd16QrCdvG5-1">
           <mxGeometry x="482" y="319" width="40" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdWitI68K5BBXJuJ7RUJ-4" value="任务1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="V8yJ5LG7Hwd16QrCdvG5-1">
+          <mxGeometry x="530" y="327.5" width="120" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdWitI68K5BBXJuJ7RUJ-5" value="算法实例" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="V8yJ5LG7Hwd16QrCdvG5-1">
+          <mxGeometry x="540" y="332.5" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdWitI68K5BBXJuJ7RUJ-6" value="CHECK N机制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="V8yJ5LG7Hwd16QrCdvG5-1">
+          <mxGeometry x="540" y="379.5" width="100" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
