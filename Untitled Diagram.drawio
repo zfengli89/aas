@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-07T09:48:47.542Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="I2EVXXX_geyDnN001n3o" version="14.1.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-01-07T09:49:03.788Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="SpKdKLi5xNidOOm8Js6R" version="14.1.8" type="github" pages="4">
   <diagram id="BvZ-COXXViEzjNhuf3pY" name="天枢-业务流程图">
     <mxGraphModel dx="1504" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -645,7 +645,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="80" y="320" />
-              <mxPoint x="80" y="140" />
+              <mxPoint x="80" y="124" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -654,7 +654,7 @@
             <mxPoint x="60" y="320" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="80" y="320" />
-              <mxPoint x="80" y="247" />
+              <mxPoint x="80" y="231" />
             </Array>
           </mxGeometry>
         </mxCell>
