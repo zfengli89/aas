@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-07T09:37:27.551Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="vmKX72CkwvaDz-B4TyLh" version="14.1.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-01-07T09:38:17.299Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="qR0YL-YqDj7ffyZ2_Qnj" version="14.1.8" type="github" pages="4">
   <diagram id="BvZ-COXXViEzjNhuf3pY" name="天枢-业务流程图">
     <mxGraphModel dx="1504" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -632,10 +632,10 @@
         <mxCell id="qes5PhBvs-tuWjIWRS8a-5" value="GPU" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qes5PhBvs-tuWjIWRS8a-1">
           <mxGeometry x="567" y="450" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="qes5PhBvs-tuWjIWRS8a-7" value="算法管理中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qes5PhBvs-tuWjIWRS8a-1">
+        <mxCell id="qes5PhBvs-tuWjIWRS8a-7" value="算法管理中心&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qes5PhBvs-tuWjIWRS8a-1">
           <mxGeometry x="447" y="189.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qes5PhBvs-tuWjIWRS8a-8" value="镜像仓库管理中心&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qes5PhBvs-tuWjIWRS8a-1">
+        <mxCell id="qes5PhBvs-tuWjIWRS8a-8" value="镜像仓库管理中心&lt;br&gt;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qes5PhBvs-tuWjIWRS8a-1">
           <mxGeometry x="447" y="62.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qes5PhBvs-tuWjIWRS8a-11" value="GPU" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qes5PhBvs-tuWjIWRS8a-1">
@@ -667,6 +667,12 @@
         </mxCell>
         <mxCell id="qes5PhBvs-tuWjIWRS8a-25" value="触发训练&amp;amp;预测" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="qes5PhBvs-tuWjIWRS8a-1">
           <mxGeometry x="50" y="190" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qes5PhBvs-tuWjIWRS8a-26" value="Habor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qes5PhBvs-tuWjIWRS8a-1">
+          <mxGeometry x="457" y="100" width="93" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qes5PhBvs-tuWjIWRS8a-27" value="Git" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qes5PhBvs-tuWjIWRS8a-1">
+          <mxGeometry x="460.5" y="226.5" width="93" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
