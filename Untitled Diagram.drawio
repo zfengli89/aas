@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-07T10:31:31.147Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="7_HmN4nPvopNnFTBLTWO" version="14.1.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-01-07T10:31:53.421Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="uXUw9TC2O7Wp3BZdoRx7" version="14.1.8" type="github" pages="4">
   <diagram id="BvZ-COXXViEzjNhuf3pY" name="天枢-业务流程图">
     <mxGraphModel dx="1504" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -622,6 +622,14 @@
         </mxCell>
         <mxCell id="qes5PhBvs-tuWjIWRS8a-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qes5PhBvs-tuWjIWRS8a-1" source="qes5PhBvs-tuWjIWRS8a-6" target="qes5PhBvs-tuWjIWRS8a-28">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qes5PhBvs-tuWjIWRS8a-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="qes5PhBvs-tuWjIWRS8a-1" source="qes5PhBvs-tuWjIWRS8a-6" target="qes5PhBvs-tuWjIWRS8a-74">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="140" />
+              <mxPoint x="630" y="342" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="qes5PhBvs-tuWjIWRS8a-6" value="K8S 资源申请中心&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qes5PhBvs-tuWjIWRS8a-1">
           <mxGeometry x="450" y="111.25" width="170" height="57.5" as="geometry" />
