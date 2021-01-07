@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-07T12:08:27.056Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="SAV_pQb_VGQekjbgsiKR" version="14.1.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-01-07T12:09:00.578Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="xN3yAQD-uXyWS3XTDw5B" version="14.1.8" type="github" pages="4">
   <diagram id="BvZ-COXXViEzjNhuf3pY" name="天枢-业务流程图">
     <mxGraphModel dx="1504" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -761,7 +761,7 @@
         <mxCell id="qes5PhBvs-tuWjIWRS8a-93" value="" style="group" vertex="1" connectable="0" parent="qes5PhBvs-tuWjIWRS8a-1">
           <mxGeometry x="438" y="309.25" width="170" height="57.5" as="geometry" />
         </mxCell>
-        <mxCell id="qes5PhBvs-tuWjIWRS8a-6" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;容器调度中心&lt;br&gt;&lt;br&gt;&lt;br&gt;K8S" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" vertex="1" parent="qes5PhBvs-tuWjIWRS8a-93">
+        <mxCell id="qes5PhBvs-tuWjIWRS8a-6" value="容器调度中心" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" vertex="1" parent="qes5PhBvs-tuWjIWRS8a-93">
           <mxGeometry width="170" height="57.5" as="geometry" />
         </mxCell>
         <mxCell id="qes5PhBvs-tuWjIWRS8a-3" value="GPU" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qes5PhBvs-tuWjIWRS8a-1">
@@ -771,7 +771,11 @@
           <mxGeometry x="358" y="257" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qes5PhBvs-tuWjIWRS8a-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#330000;fillColor=#0000FF;" edge="1" parent="qes5PhBvs-tuWjIWRS8a-1" source="qes5PhBvs-tuWjIWRS8a-6" target="qes5PhBvs-tuWjIWRS8a-16">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="523" y="250" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
