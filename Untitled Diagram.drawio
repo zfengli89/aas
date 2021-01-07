@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-07T09:31:56.435Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="GeRtqmqjMaqtMdpnaG_4" version="14.1.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-01-07T09:32:32.002Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="2cIWBj8eHiV-sE1k8Hdg" version="14.1.8" type="github" pages="4">
   <diagram id="BvZ-COXXViEzjNhuf3pY" name="天枢-业务流程图">
     <mxGraphModel dx="1504" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -618,49 +618,49 @@
         <mxCell id="qes5PhBvs-tuWjIWRS8a-0" />
         <mxCell id="qes5PhBvs-tuWjIWRS8a-1" parent="qes5PhBvs-tuWjIWRS8a-0" />
         <mxCell id="qes5PhBvs-tuWjIWRS8a-6" value="K8S&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qes5PhBvs-tuWjIWRS8a-1">
-          <mxGeometry x="330" y="400" width="360" height="50" as="geometry" />
+          <mxGeometry x="260" y="410" width="360" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qes5PhBvs-tuWjIWRS8a-2" value="资源调度申请中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qes5PhBvs-tuWjIWRS8a-1">
-          <mxGeometry x="330" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qes5PhBvs-tuWjIWRS8a-3" value="GPU" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qes5PhBvs-tuWjIWRS8a-1">
-          <mxGeometry x="340" y="420" width="40" height="20" as="geometry" />
+          <mxGeometry x="270" y="430" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qes5PhBvs-tuWjIWRS8a-4" value="GPU" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qes5PhBvs-tuWjIWRS8a-1">
-          <mxGeometry x="394" y="420" width="40" height="20" as="geometry" />
+          <mxGeometry x="324" y="430" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qes5PhBvs-tuWjIWRS8a-5" value="GPU" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qes5PhBvs-tuWjIWRS8a-1">
-          <mxGeometry x="450" y="420" width="40" height="20" as="geometry" />
+          <mxGeometry x="380" y="430" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qes5PhBvs-tuWjIWRS8a-7" value="Git算法代码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qes5PhBvs-tuWjIWRS8a-1">
-          <mxGeometry x="530" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qes5PhBvs-tuWjIWRS8a-8" value="Docker仓库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qes5PhBvs-tuWjIWRS8a-1">
-          <mxGeometry x="330" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qes5PhBvs-tuWjIWRS8a-9" value="GPU" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qes5PhBvs-tuWjIWRS8a-1">
-          <mxGeometry x="624" y="420" width="40" height="20" as="geometry" />
+          <mxGeometry x="554" y="430" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qes5PhBvs-tuWjIWRS8a-10" value="GPU" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qes5PhBvs-tuWjIWRS8a-1">
-          <mxGeometry x="570" y="420" width="40" height="20" as="geometry" />
+          <mxGeometry x="500" y="430" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qes5PhBvs-tuWjIWRS8a-11" value="GPU" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qes5PhBvs-tuWjIWRS8a-1">
-          <mxGeometry x="510" y="420" width="40" height="20" as="geometry" />
+          <mxGeometry x="440" y="430" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qes5PhBvs-tuWjIWRS8a-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="qes5PhBvs-tuWjIWRS8a-1" source="qes5PhBvs-tuWjIWRS8a-12" target="qes5PhBvs-tuWjIWRS8a-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qes5PhBvs-tuWjIWRS8a-12" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="qes5PhBvs-tuWjIWRS8a-1">
-          <mxGeometry x="80" y="180" width="30" height="60" as="geometry" />
+          <mxGeometry x="10" y="190" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qes5PhBvs-tuWjIWRS8a-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="qes5PhBvs-tuWjIWRS8a-1" source="qes5PhBvs-tuWjIWRS8a-14" target="qes5PhBvs-tuWjIWRS8a-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qes5PhBvs-tuWjIWRS8a-14" value="应用控制中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qes5PhBvs-tuWjIWRS8a-1">
-          <mxGeometry x="150" y="180" width="80" height="60" as="geometry" />
+          <mxGeometry x="117" y="190" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qes5PhBvs-tuWjIWRS8a-16" value="容器控制中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qes5PhBvs-tuWjIWRS8a-1">
-          <mxGeometry x="330" y="180" width="120" height="60" as="geometry" />
+        <mxCell id="qes5PhBvs-tuWjIWRS8a-16" value="调度中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qes5PhBvs-tuWjIWRS8a-1">
+          <mxGeometry x="260" y="190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
