@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-07T11:59:28.628Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="n77Rvi3eRBY65G0BdtUK" version="14.1.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-01-07T12:02:52.872Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="SdHSm0lQbDKs9L-JXqr1" version="14.1.8" type="github" pages="4">
   <diagram id="BvZ-COXXViEzjNhuf3pY" name="天枢-业务流程图">
     <mxGraphModel dx="1504" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -634,17 +634,11 @@
             <mxPoint x="58" y="337.4" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qes5PhBvs-tuWjIWRS8a-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="qes5PhBvs-tuWjIWRS8a-1" source="qes5PhBvs-tuWjIWRS8a-14" target="qes5PhBvs-tuWjIWRS8a-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="qes5PhBvs-tuWjIWRS8a-14" value="应用控制中心" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3B3B3;" vertex="1" parent="qes5PhBvs-tuWjIWRS8a-1">
           <mxGeometry x="151" y="308" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qes5PhBvs-tuWjIWRS8a-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="qes5PhBvs-tuWjIWRS8a-1" source="qes5PhBvs-tuWjIWRS8a-16" target="qes5PhBvs-tuWjIWRS8a-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="qes5PhBvs-tuWjIWRS8a-16" value="容器调度中心" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3B3B3;" vertex="1" parent="qes5PhBvs-tuWjIWRS8a-1">
-          <mxGeometry x="294" y="308" width="100" height="60" as="geometry" />
+        <mxCell id="qes5PhBvs-tuWjIWRS8a-16" value="资源申请中心(K8S)&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3B3B3;" vertex="1" parent="qes5PhBvs-tuWjIWRS8a-1">
+          <mxGeometry x="288" y="220" width="122" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qes5PhBvs-tuWjIWRS8a-25" value="触发&lt;br&gt;1训练&amp;amp;&lt;br&gt;2预测&amp;nbsp;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="qes5PhBvs-tuWjIWRS8a-1">
           <mxGeometry x="70" y="300" width="51" height="20" as="geometry" />
@@ -764,17 +758,14 @@
         <mxCell id="qes5PhBvs-tuWjIWRS8a-93" value="" style="group" vertex="1" connectable="0" parent="qes5PhBvs-tuWjIWRS8a-1">
           <mxGeometry x="438" y="309.25" width="170" height="57.5" as="geometry" />
         </mxCell>
-        <mxCell id="qes5PhBvs-tuWjIWRS8a-6" value="GPU资源分配中心&lt;br&gt;&lt;br&gt;&lt;br&gt;K8S" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" vertex="1" parent="qes5PhBvs-tuWjIWRS8a-93">
+        <mxCell id="qes5PhBvs-tuWjIWRS8a-6" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;容器调度中心&lt;br&gt;&lt;br&gt;&lt;br&gt;K8S" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" vertex="1" parent="qes5PhBvs-tuWjIWRS8a-93">
           <mxGeometry width="170" height="57.5" as="geometry" />
         </mxCell>
         <mxCell id="qes5PhBvs-tuWjIWRS8a-3" value="GPU" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qes5PhBvs-tuWjIWRS8a-1">
-          <mxGeometry x="270" y="190" width="40" height="20" as="geometry" />
+          <mxGeometry x="301" y="256" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qes5PhBvs-tuWjIWRS8a-4" value="GPU" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qes5PhBvs-tuWjIWRS8a-1">
-          <mxGeometry x="350" y="190" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="qes5PhBvs-tuWjIWRS8a-5" value="GPU" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qes5PhBvs-tuWjIWRS8a-1">
-          <mxGeometry x="410" y="180" width="40" height="20" as="geometry" />
+          <mxGeometry x="358" y="257" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
