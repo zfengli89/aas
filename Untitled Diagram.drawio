@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-07T09:50:19.450Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="PsbB3fMMvM-cpL-b-9Ol" version="14.1.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-01-07T09:55:21.582Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Zjp9V4V_GGddzVYynNqr" version="14.1.8" type="github" pages="4">
   <diagram id="BvZ-COXXViEzjNhuf3pY" name="天枢-业务流程图">
     <mxGraphModel dx="1504" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -617,6 +617,9 @@
       <root>
         <mxCell id="qes5PhBvs-tuWjIWRS8a-0" />
         <mxCell id="qes5PhBvs-tuWjIWRS8a-1" parent="qes5PhBvs-tuWjIWRS8a-0" />
+        <mxCell id="qes5PhBvs-tuWjIWRS8a-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qes5PhBvs-tuWjIWRS8a-1" source="qes5PhBvs-tuWjIWRS8a-6" target="qes5PhBvs-tuWjIWRS8a-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qes5PhBvs-tuWjIWRS8a-6" value="K8S 资源申请中心&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qes5PhBvs-tuWjIWRS8a-1">
           <mxGeometry x="460" y="307.25" width="170" height="57.5" as="geometry" />
         </mxCell>
@@ -629,8 +632,14 @@
         <mxCell id="qes5PhBvs-tuWjIWRS8a-5" value="GPU" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qes5PhBvs-tuWjIWRS8a-1">
           <mxGeometry x="580" y="334.75" width="40" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="qes5PhBvs-tuWjIWRS8a-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qes5PhBvs-tuWjIWRS8a-1" source="qes5PhBvs-tuWjIWRS8a-7" target="qes5PhBvs-tuWjIWRS8a-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qes5PhBvs-tuWjIWRS8a-7" value="算法管理中心&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qes5PhBvs-tuWjIWRS8a-1">
           <mxGeometry x="256" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qes5PhBvs-tuWjIWRS8a-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="qes5PhBvs-tuWjIWRS8a-1" source="qes5PhBvs-tuWjIWRS8a-8" target="qes5PhBvs-tuWjIWRS8a-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qes5PhBvs-tuWjIWRS8a-8" value="镜像仓库管理中心&lt;br&gt;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qes5PhBvs-tuWjIWRS8a-1">
           <mxGeometry x="256" y="217" width="120" height="60" as="geometry" />
@@ -680,7 +689,7 @@
           <mxGeometry x="269.5" y="146" width="93" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qes5PhBvs-tuWjIWRS8a-28" value="算法容器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qes5PhBvs-tuWjIWRS8a-1">
-          <mxGeometry x="484" y="166" width="120" height="60" as="geometry" />
+          <mxGeometry x="670" y="308" width="86" height="56" as="geometry" />
         </mxCell>
         <mxCell id="qes5PhBvs-tuWjIWRS8a-39" value="上传算法" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="qes5PhBvs-tuWjIWRS8a-1">
           <mxGeometry x="120" y="116" width="60" height="20" as="geometry" />
