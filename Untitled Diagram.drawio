@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-07T09:36:35.282Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="mpeIlUMBsKSH9hEM97W1" version="14.1.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-01-07T09:37:27.551Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="vmKX72CkwvaDz-B4TyLh" version="14.1.8" type="github" pages="4">
   <diagram id="BvZ-COXXViEzjNhuf3pY" name="天枢-业务流程图">
     <mxGraphModel dx="1504" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -664,6 +664,9 @@
         </mxCell>
         <mxCell id="qes5PhBvs-tuWjIWRS8a-16" value="调度中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qes5PhBvs-tuWjIWRS8a-1">
           <mxGeometry x="260" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qes5PhBvs-tuWjIWRS8a-25" value="触发训练&amp;amp;预测" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="qes5PhBvs-tuWjIWRS8a-1">
+          <mxGeometry x="50" y="190" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
