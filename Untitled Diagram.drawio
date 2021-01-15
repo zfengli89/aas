@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-15T10:20:27.524Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="W8s6PpEx7iIFGivEAu8s" version="14.2.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-01-15T10:20:56.825Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="wxfqwX0fUP5NnqljbUwW" version="14.2.3" type="github" pages="5">
   <diagram id="BvZ-COXXViEzjNhuf3pY" name="天枢-业务流程图">
     <mxGraphModel dx="1278" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -924,7 +924,7 @@
           <mxGeometry x="10" y="250" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Et4jPjgqmpdTbAQj619L-8" value="&lt;b&gt;任务消息队列&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bNfiLSf52Mv0iVQE5FsK-1">
-          <mxGeometry x="-190" y="260" width="80" height="20" as="geometry" />
+          <mxGeometry x="-190" y="320" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Et4jPjgqmpdTbAQj619L-10" value="&lt;b&gt;是否关闭容器释放资源：&lt;/b&gt;&lt;br&gt;（1）消息队列为空，释放资源；&lt;br&gt;（2）消息队列不为空， 判断任务是否已经连续处理了5个消息，若是，则释放资源；" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bNfiLSf52Mv0iVQE5FsK-1">
           <mxGeometry x="232.5" y="-9" width="457.5" height="70" as="geometry" />
@@ -940,6 +940,12 @@
             <mxPoint x="70" y="-10" as="sourcePoint" />
             <mxPoint x="120" y="-60" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Et4jPjgqmpdTbAQj619L-15" value="&lt;b&gt;产线队列&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bNfiLSf52Mv0iVQE5FsK-1">
+          <mxGeometry x="-493" y="320" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Et4jPjgqmpdTbAQj619L-16" value="&lt;b&gt;推理任务&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bNfiLSf52Mv0iVQE5FsK-1">
+          <mxGeometry y="320" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
