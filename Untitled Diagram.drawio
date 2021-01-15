@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-15T10:27:40.011Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="zdxFBs-00UMAYliYy9nt" version="14.2.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-01-15T10:27:48.851Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="5YzRRjBjq2fbIG6ThpzG" version="14.2.3" type="github" pages="5">
   <diagram id="BvZ-COXXViEzjNhuf3pY" name="天枢-业务流程图">
     <mxGraphModel dx="1278" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -927,7 +927,7 @@
           <mxGeometry x="-190" y="310" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Et4jPjgqmpdTbAQj619L-10" value="&lt;b&gt;是否关闭容器释放资源：&lt;/b&gt;&lt;br&gt;（1）消息队列为空，释放资源；&lt;br&gt;（2）消息队列不为空， 判断任务是否已经连续处理了5个消息，若是，则释放资源；" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bNfiLSf52Mv0iVQE5FsK-1">
-          <mxGeometry x="232.5" y="-9" width="457.5" height="70" as="geometry" />
+          <mxGeometry x="250" y="-34" width="457.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Et4jPjgqmpdTbAQj619L-11" value="消费者" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bNfiLSf52Mv0iVQE5FsK-1">
           <mxGeometry x="-320" y="162" width="40" height="20" as="geometry" />
