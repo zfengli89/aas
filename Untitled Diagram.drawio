@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-15T10:01:51.658Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="52mamfw-yunhKv8_1G0o" version="14.2.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-01-15T10:02:42.256Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="r99VUCzp7JwX_KUJPfKl" version="14.2.3" type="github" pages="5">
   <diagram id="BvZ-COXXViEzjNhuf3pY" name="天枢-业务流程图">
     <mxGraphModel dx="1278" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -925,6 +925,9 @@
         </mxCell>
         <mxCell id="Et4jPjgqmpdTbAQj619L-8" value="任务消息队列" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bNfiLSf52Mv0iVQE5FsK-1">
           <mxGeometry x="-190" y="310" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Et4jPjgqmpdTbAQj619L-10" value="判断是否还有待处理的消息，若无释放资源" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bNfiLSf52Mv0iVQE5FsK-1">
+          <mxGeometry x="225.5" width="140" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
