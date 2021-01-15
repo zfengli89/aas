@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-15T07:21:44.161Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="0wNTTkqiBdhPJzwyVP1s" version="14.2.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-01-15T07:23:58.523Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="ILEoEv4i67BNFOfZVHW4" version="14.2.3" type="github" pages="5">
   <diagram id="BvZ-COXXViEzjNhuf3pY" name="天枢-业务流程图">
     <mxGraphModel dx="1278" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -785,6 +785,15 @@
         </mxCell>
         <mxCell id="5ROcUVjSfwXMTpMLNUxn-1" value="MES系统" style="rounded=1;whiteSpace=wrap;html=1;" parent="bNfiLSf52Mv0iVQE5FsK-1" vertex="1">
           <mxGeometry x="40" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mPoWbat70BD7L8OLeFTm-2" value="msg1-t1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bNfiLSf52Mv0iVQE5FsK-1">
+          <mxGeometry x="55" y="250" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mPoWbat70BD7L8OLeFTm-3" value="msg2-t1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bNfiLSf52Mv0iVQE5FsK-1">
+          <mxGeometry x="55" y="280" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mPoWbat70BD7L8OLeFTm-4" value="msg3-t2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bNfiLSf52Mv0iVQE5FsK-1">
+          <mxGeometry x="55" y="310" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
