@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-15T10:16:18.562Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="siAh0AevYT1lOBXE2QOe" version="14.2.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-01-15T10:18:16.813Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="30v1vh3fmgOG7vCntOaN" version="14.2.3" type="github" pages="5">
   <diagram id="BvZ-COXXViEzjNhuf3pY" name="天枢-业务流程图">
     <mxGraphModel dx="1278" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -926,13 +926,13 @@
         <mxCell id="Et4jPjgqmpdTbAQj619L-8" value="任务消息队列" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bNfiLSf52Mv0iVQE5FsK-1">
           <mxGeometry x="-191" y="320" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Et4jPjgqmpdTbAQj619L-10" value="回查对应的消息队列，是否有消息在排队&lt;br&gt;&lt;div&gt;&lt;span&gt;(1) 若无释放资源&lt;/span&gt;&lt;/div&gt;(2) 如有，看任务是否已经处理了5个消息，如&amp;gt;=5，释放资源" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bNfiLSf52Mv0iVQE5FsK-1">
-          <mxGeometry x="232.5" y="-49" width="177.5" height="70" as="geometry" />
+        <mxCell id="Et4jPjgqmpdTbAQj619L-10" value="&lt;b&gt;是否关闭容器释放资源：&lt;/b&gt;&lt;br&gt;（1）消息队列为空，释放资源；&lt;br&gt;（2）消息队列不为空， 判断任务是否已经连续处理了5个消息，若是，则释放资源；" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bNfiLSf52Mv0iVQE5FsK-1">
+          <mxGeometry x="232.5" y="-49" width="457.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Et4jPjgqmpdTbAQj619L-11" value="消费者" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bNfiLSf52Mv0iVQE5FsK-1">
           <mxGeometry x="-320" y="162" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Et4jPjgqmpdTbAQj619L-12" value="是否启动多实例：&lt;br&gt;（1）设置多实例任务个数；&lt;br&gt;（2）任务对应的消息队列消息挤压大于等于4个；" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bNfiLSf52Mv0iVQE5FsK-1">
+        <mxCell id="Et4jPjgqmpdTbAQj619L-12" value="&lt;b&gt;是否启动多实例：&lt;/b&gt;&lt;br&gt;（1）设置多实例任务个数；&lt;br&gt;（2）任务对应的消息队列消息挤压大于等于4个；" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bNfiLSf52Mv0iVQE5FsK-1">
           <mxGeometry x="100" y="-250" width="270" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Et4jPjgqmpdTbAQj619L-13" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;entryX=0.044;entryY=1.029;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="bNfiLSf52Mv0iVQE5FsK-1" target="Et4jPjgqmpdTbAQj619L-12">
