@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-18T12:32:38.690Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="B_j9qDGGb94Yu8ZN6CAN" version="14.2.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-01-18T12:33:03.832Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="H9_t9ps_XmIoYPBXE69s" version="14.2.3" type="github" pages="5">
   <diagram id="BvZ-COXXViEzjNhuf3pY" name="天枢-业务流程图">
     <mxGraphModel dx="1278" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -971,7 +971,7 @@
             <mxPoint x="-100" y="-210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lW_RolETE7vDVuMS-u30-2" value="&lt;b&gt;排队中心计数：&lt;/b&gt;&lt;br&gt;小于GPU数量，批量启动，&lt;br&gt;大于GPU数量，定时30s轮询启动" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bNfiLSf52Mv0iVQE5FsK-1">
+        <mxCell id="lW_RolETE7vDVuMS-u30-2" value="&lt;b&gt;排队中心计数：&lt;/b&gt;&lt;br&gt;定时轮询启动" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bNfiLSf52Mv0iVQE5FsK-1">
           <mxGeometry x="-170" y="-270" width="190" height="70" as="geometry" />
         </mxCell>
         <mxCell id="lW_RolETE7vDVuMS-u30-4" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="bNfiLSf52Mv0iVQE5FsK-1">
