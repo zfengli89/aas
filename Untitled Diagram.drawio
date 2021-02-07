@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-07T05:33:44.188Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="VGJ0SUbjHTcjbw7s6cwC" version="14.2.9" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-02-07T05:34:12.892Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="PWPt-6sgDnvgzcLdzIte" version="14.2.9" type="github" pages="6">
   <diagram id="BvZ-COXXViEzjNhuf3pY" name="天枢-业务流程图">
     <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1131,22 +1131,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="f7ETe1ULrtJPozjadZNZ-32" value="Habor" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="v6Kv0jMWxgONGwOYbSXB-1">
+        <mxCell id="f7ETe1ULrtJPozjadZNZ-32" value="镜像仓库-AWS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="v6Kv0jMWxgONGwOYbSXB-1">
           <mxGeometry x="45" y="339" width="150" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="f7ETe1ULrtJPozjadZNZ-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="v6Kv0jMWxgONGwOYbSXB-1" source="f7ETe1ULrtJPozjadZNZ-34" target="f7ETe1ULrtJPozjadZNZ-32">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="f7ETe1ULrtJPozjadZNZ-34" value="Git" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="v6Kv0jMWxgONGwOYbSXB-1">
-          <mxGeometry x="45" y="219" width="150" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="f7ETe1ULrtJPozjadZNZ-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="v6Kv0jMWxgONGwOYbSXB-1" target="f7ETe1ULrtJPozjadZNZ-34">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="120" y="130" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="f7ETe1ULrtJPozjadZNZ-36" value="&lt;b&gt;开发者&lt;/b&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="v6Kv0jMWxgONGwOYbSXB-1">
-          <mxGeometry x="105" y="49" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f7ETe1ULrtJPozjadZNZ-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="v6Kv0jMWxgONGwOYbSXB-1" source="f7ETe1ULrtJPozjadZNZ-38" target="f7ETe1ULrtJPozjadZNZ-25">
           <mxGeometry relative="1" as="geometry" />
@@ -1173,9 +1159,6 @@
         </mxCell>
         <mxCell id="f7ETe1ULrtJPozjadZNZ-43" value="&lt;b&gt;AWS&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=#3333FF;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="v6Kv0jMWxgONGwOYbSXB-1">
           <mxGeometry x="379.75" y="190" width="60" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="f7ETe1ULrtJPozjadZNZ-44" value="CI自动构建" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="v6Kv0jMWxgONGwOYbSXB-1">
-          <mxGeometry x="124" y="290" width="66" height="20" as="geometry" />
         </mxCell>
         <mxCell id="f7ETe1ULrtJPozjadZNZ-45" value="数据上传" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="v6Kv0jMWxgONGwOYbSXB-1">
           <mxGeometry x="195" y="555" width="55" height="20" as="geometry" />
