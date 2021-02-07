@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-07T05:34:12.892Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="PWPt-6sgDnvgzcLdzIte" version="14.2.9" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-02-07T05:34:18.586Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="hZJNc095okB5UL6UwmDv" version="14.2.9" type="github" pages="6">
   <diagram id="BvZ-COXXViEzjNhuf3pY" name="天枢-业务流程图">
     <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1097,15 +1097,6 @@
         <mxCell id="f7ETe1ULrtJPozjadZNZ-23" value="NAS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="v6Kv0jMWxgONGwOYbSXB-1">
           <mxGeometry x="743.75" y="220" width="38.75" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="f7ETe1ULrtJPozjadZNZ-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="v6Kv0jMWxgONGwOYbSXB-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="625.75" y="404" as="sourcePoint" />
-            <mxPoint x="541.5" y="403.5" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="584" y="404" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="f7ETe1ULrtJPozjadZNZ-25" value="适配器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCCC;strokeColor=#82b366;" vertex="1" parent="v6Kv0jMWxgONGwOYbSXB-1">
           <mxGeometry x="622.5" y="384" width="160" height="60" as="geometry" />
         </mxCell>
@@ -1203,12 +1194,6 @@
         </mxCell>
         <mxCell id="f7ETe1ULrtJPozjadZNZ-59" value="算法容器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3333FF;" vertex="1" parent="v6Kv0jMWxgONGwOYbSXB-1">
           <mxGeometry x="450.25" y="240" width="36" height="37" as="geometry" />
-        </mxCell>
-        <mxCell id="f7ETe1ULrtJPozjadZNZ-60" value="" style="endArrow=classic;html=1;entryX=0.007;entryY=0.713;entryDx=0;entryDy=0;exitX=1.005;exitY=0.646;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="v6Kv0jMWxgONGwOYbSXB-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="542.8087500000001" y="419.202" as="sourcePoint" />
-            <mxPoint x="626.0124999999998" y="419.78" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="f7ETe1ULrtJPozjadZNZ-62" value="算法容器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3333FF;" vertex="1" parent="v6Kv0jMWxgONGwOYbSXB-1">
           <mxGeometry x="493" y="240" width="36" height="37" as="geometry" />
